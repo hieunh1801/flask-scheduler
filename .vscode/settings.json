@@ -1,4 +1,7 @@
 {
     "python.pythonPath": "venv\\Scripts\\python.exe",
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.enabled": true
 }
